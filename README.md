@@ -1,5 +1,5 @@
 # Weather app
-Weather app using opeanweather API data.
+Weather app using opeanweather API data with tkinter GUI.
 Avaiable in polish and english version.
 
 
